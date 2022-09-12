@@ -4,7 +4,7 @@
 
 A basic serverless [Telegram bot](https://core.telegram.org/bots) using [Google Cloud Functions](https://cloud.google.com/functions/).
 
-Add this to your group and type `/mock` or `/uwu` followed by your message, or simply use `@M0cking_Bot` for DMs. Contact [@incomple](https://t.me/Incomple) for feedback and suggestions.
+[Add this to your group](https://t.me/M0cking_Bot) and type `/mock` or `/uwu` followed by your message, or simply use `@M0cking_Bot` for DMs. Contact [@incomple](https://t.me/Incomple) for feedback and suggestions.
 
 This bot runs with Python 3.7 and [python-telegram-bot](https://python-telegram-bot.org/).
 
